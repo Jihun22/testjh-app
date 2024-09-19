@@ -62,7 +62,7 @@ function App() {
         headerBackgroundColor={color.mainColor}
         logoOption={{
           redirectUrl: "/",
-          title: "dev-portfolio",
+          title: "JIHUN",
           logoHidden: true,
           titleColor: `${color.pointColor}`,
           titleSize: "30px",

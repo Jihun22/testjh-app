@@ -11,19 +11,17 @@ import color from "../style/theme";
 const Introduction = ({ id }: { id: string }) => {
   return (
     <Wrap id={id}>
-      <span style={{ color: `${color.pointColor}` }}>Hi there!</span>
+      <span style={{ color: `${color.pointColor}` }}>안녕하세요 양지훈입니다.</span>
       <br />
-      <span>This manual will help you create a better portfolio.</span>
+      <span>양지훈 포토폴리오 입니다.</span>
       <span>
-        Create a creative portfolio by referring to simple examples of the
-        components below.
+       22222222
       </span>
       <span>
-        This article was created for a simple introduction, and when you make it
-        yourself, please delete it and use it.
+  333333333
       </span>
       <br />
-      <span>Then, shall we go see the components? Scroll down and follow!</span>
+      <span>44444444</span>
     </Wrap>
   );
 };
